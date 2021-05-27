@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khadafisani
 - 👀 I’m interested in Backend dev
-- 🌱 I’m currently learning Mern stack
+- 🌱 I’m currently learning Express JS :D
 - 📫 How to reach me khadafisani89@gmail.com
 
 <!---
